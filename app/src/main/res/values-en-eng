@@ -20,6 +20,8 @@
   ~
   -->
 <resources>
+  <string name="helloactivity_spinner_preferred_glucose_unit_2">mmol/L</string>
+  <string name="preferences_version">Version</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
@@ -30,4 +32,5 @@
   <!-- Badges -->
   <!-- Food Entry Labels -->
   <!-- About Glucosio Strings -->
+  <string name="mmol_L">mmol/L</string>
 </resources>
