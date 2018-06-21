@@ -20,9 +20,27 @@
   ~
   -->
 <resources>
+  <string name="helloactivity_spinner_diabetes_type_1">1 型</string>
+  <string name="helloactivity_spinner_diabetes_type_2">2 型</string>
+  <string name="helloactivity_spinner_diabetes_lada">LADA</string>
+  <string name="helloactivity_spinner_preferred_glucose_unit_2">mmol/L</string>
+  <string name="dialog_add_concentration">濃度</string>
+  <string name="dialog_add_date">日付</string>
+  <string name="preferences_version">バージョン</string>
+  <string name="glucose_reading_type">型</string>
+  <string name="assistant">アシスタント</string>
   <string name="preferences_backup_google_drive">Google ドライブ</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
+  <string name="dialog_add_exercisetype_9">ゴルフ</string>
+  <string name="dialog_add_exercisetype_10">ソフトボール</string>
+  <string name="dialog_add_exercisetype_11">バドミントン</string>
+  <string name="dialog_add_exercisetype_12">サッカー</string>
+  <string name="dialog_add_exercisetype_13">バスケットボール</string>
+  <string name="dialog_add_exercisetype_14">バレーボール</string>
+  <string name="dialog_add_exercisetype_15">クリケット</string>
+  <string name="dialog_add_exercisetype_16">フリスビー</string>
+  <string name="dialog_add_exercisetype_19">テニス</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Intro Strings -->
   <!-- Future Strings Baked In Early For l10n -->
@@ -32,5 +50,12 @@
   <!-- Food Entry Labels -->
   <!-- About Glucosio Strings -->
   <string name="dialog_add_hb1ac">HB1AC</string>
-  <string name="overview_hb1ac">HB1AC:</string>
+  <string name="activity_converter_a1c">HB1AC</string>
+  <string name="menu_support">サポート</string>
+  <string name="menu_support_email">メール</string>
+  <string name="dialog_add_notes">メモ</string>
+  <string name="mmol_L">mmol/L</string>
+  <string name="mmol_mol_value">%1$s mmol/mol</string>
+  <string name="mmol_L_value">%1$s mmol/L</string>
+  <string name="mg_dL_value">%1$s mg/dL</string>
 </resources>
