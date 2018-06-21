@@ -20,6 +20,8 @@
   ~
   -->
 <resources>
+  <string name="helloactivity_gender">ലിംഗം</string>
+  <string name="dialog_edit">മാറ്റം വരുത്തുക</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
