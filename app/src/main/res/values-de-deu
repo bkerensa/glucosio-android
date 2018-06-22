@@ -20,14 +20,12 @@
   ~
   -->
 <resources>
-  <string name="helloactivity_spinner_diabetes_type_1">Typ 1</string>
-  <string name="helloactivity_spinner_diabetes_type_2">Typ 2</string>
   <string-array name="tips_all">
-    <item>Kumain ng mas maraming sariwa, hindi prinosesong pagkain upang mabawasan ang pagpasok sa katawan ng carbohydrates at asukal.</item>
-    <item>Basahin ang nutritional label sa mga nakapaketeng pagkain at inumin upang makontrol ang pagpasok sa katawan ng carbihydrate at asukal.</item>
-    <item>Kapag kumakain sa labas, piliin ang isda o karneng inihaw nang walang dagdag na butter o mantika.</item>
-    <item>Kung kakain sa labas, piliin ang mga pagkaing mababa sa sodium.</item>
-    <item>Kung kakain sa labas, kumain ng kaparehong sukat na kagaya nang kung kumakain sa bahay at iuwi ang mga tirang pagkain.</item>
+    <item>Їжте більше свіжих, необроблених продуктів, аби зменшити споживання вуглеводів і цукру.</item>
+    <item>Передивляйтесь склад на етикетці упакованих харчових продуктів та напоїв, щоб контролювати споживання цукру і вуглеводів.</item>
+    <item>Коли харчуєтесь поза домом, запитайте рибу або м\'ясо, печене без додаткових масла або олії.</item>
+    <item>Коли харчуєтесь поза домом, запитатйте, якщо вони мають страви з низьким вмістом натрію.</item>
+    <item>Wenn Sie essen gehen, Essen Sie die gleiche Portionsgröße wie Zuhause und lassen Sie sich den Rest einpacken.</item>
     <item>Wenn Sie essen gehen, fragen Sie, z.B.: bei Salatdressings, nach kalorienarmen Zutaten, auch wenn diese nicht in der Menükarte stehen.</item>
     <item>Wenn Sie essen gehen, fragen Sie nach alternativen Beilagen. Anstatt von Pommes Frittes könnten Sie eine doppelte Portion Gemüse, grüne Bohnen, Brokkoli oder einen Salat bestellen.</item>
     <item>Wenn Sie essen gehen, bestellen Sie Gerichte die nicht parniert oder in Fett gebraten werden.</item>
@@ -45,6 +43,11 @@
     <item>Ein jährlicher Arztbesuch, sowie regelmäßige Kommunikation über das jahr hinweg ist wichtig für Diabetiker um plötzlich auftretenden - diabetesbedingten - gesundheitlichen Problemen vorzubeugen.</item>
     <item>Nehmen Sie die Ihnen von Ihrem Arzt verschriebenen Medikamente. Selbst kleinste Abweichungen in der Einnahme, können Ihren Blutzuckerspiegel beeinflussen und andere Nebenwirkungen haben. Sollten Sie Probleme haben sich zu merken, wie Sie Ihre Medikamente zu nehmen haben, fragen Sie Ihren Arzt bezüglich Erinnerungshilfen.</item>
   </string-array>
+  <string-array name="tips_all_age_plus_40">
+    <item>Ältere Diabetiker können einem höheren Gesundheitsrisiko durch Diabetes ausgesetzt sein. Sprechen Sie mit Ihrem Arzt darüber, inwiefern Ihr Alter eine Rolle bezüglich Ihrer Diabetes spielt und worauf zu achten ist.</item>
+    <item>Обмежуйте кількість солі що ви використовуєте для готування їжі і додаєти до страви, після того, як вона була приготована.</item>
+  </string-array>
+  <string name="preferences_backup_google_drive">Google Drive</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
