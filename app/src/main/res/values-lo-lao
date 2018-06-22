@@ -21,9 +21,13 @@
   -->
 <resources>
   <string name="helloactivity_spinner_diabetes_lada">LADA</string>
-  <string name="dialog_add_type_7">ອາຫານວ່າງ</string>
+  <string name="helloactivity_spinner_preferred_glucose_unit_2">mmol/L</string>
+  <string name="assistant_action_live_chat">ແຊັດອອນໄລນ໌</string>
+  <string name="preferences_backup_google_drive">Google Drive</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
+  <string name="dialog_add_exercisetype_9">ກັອບ</string>
+  <string name="dialog_add_exercisetype_11">ຕີດອກປີກໄກ່</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Intro Strings -->
   <!-- Future Strings Baked In Early For l10n -->
@@ -32,4 +36,6 @@
   <!-- Badges -->
   <!-- Food Entry Labels -->
   <!-- About Glucosio Strings -->
+  <string name="overview_hb1ac">HBA1C:</string>
+  <string name="mmol_L">mmol/L</string>
 </resources>
