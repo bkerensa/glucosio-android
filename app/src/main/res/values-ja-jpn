@@ -23,7 +23,6 @@
 	These strings are the source of the Glucosio Google Play Store description.
 -->
 <resources>
-  <string name="PlaystoreDescription_para_0800">バグ、問題、機能のリクエストをお送りください:</string>
   <string name="PlaystoreDescription_para_0900">https://github.com/glucosio/android</string>
   <string name="PlaystoreDescription_para_1100">http://www.glucosio.org/</string>
 </resources>
