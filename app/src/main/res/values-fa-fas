@@ -20,8 +20,12 @@
   ~
   -->
 <resources>
+  <string name="preferences_backup_google_drive">گوگل درایو</string>
+  <string name="reading_ok">خب</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
+  <string name="dialog_add_exercisetype_9">گلف</string>
+  <string name="dialog_add_exercisetype_11">بدمینتون</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Intro Strings -->
   <!-- Future Strings Baked In Early For l10n -->
