@@ -20,6 +20,11 @@
   ~
   -->
 <resources>
+  <string name="helloactivity_spinner_diabetes_type_1">Ekika Ekisoka</string>
+  <string name="helloactivity_spinner_diabetes_type_2">Ekika Eky\'okubiri</string>
+  <string name="dialog_add_concentration">Obukwafu</string>
+  <string name="dialog_add_date">Olunaku</string>
+  <string name="preferences_version">Ekyikka</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
