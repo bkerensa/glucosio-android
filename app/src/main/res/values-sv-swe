@@ -22,6 +22,4 @@
 <!--
 	These strings are the source of the Glucosio Google Play Store description.
 -->
-<resources>
-  <string name="PlaystoreDescription_para_0800">Vänligen skicka in eventuella buggar, frågor eller önskemål om funktioner på:</string>
-</resources>
+<resources></resources>
