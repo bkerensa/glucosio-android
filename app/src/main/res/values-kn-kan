@@ -20,6 +20,8 @@
   ~
   -->
 <resources>
+  <string name="helloactivity_spinner_diabetes_type_1">ಟೈಪ್ 1</string>
+  <string name="helloactivity_spinner_diabetes_type_2">ಟೈಪ್ 2</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
