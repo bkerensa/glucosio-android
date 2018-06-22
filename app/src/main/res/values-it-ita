@@ -20,6 +20,47 @@
   ~
   -->
 <resources>
+  <string name="action_feedback">Invia feedback</string>
+  <string name="tab_history">Cronologia</string>
+  <string name="helloactivity_country">Nazione</string>
+  <string name="helloactivity_age">Età</string>
+  <string name="helloactivity_age_invalid">Inserisci una età valida.</string>
+  <string name="helloactivity_gender">Genere</string>
+  <string name="helloactivity_gender_list_1">Maschio</string>
+  <string name="helloactivity_gender_list_2">Femmina</string>
+  <string name="helloactivity_gender_list_3">Altro</string>
+  <string name="helloactivity_spinner_diabetes_type">Tipo di diabete</string>
+  <string name="helloactivity_spinner_diabetes_type_1">Tipo 1</string>
+  <string name="helloactivity_spinner_diabetes_type_2">Tipo 2</string>
+  <string name="helloactivity_spinner_diabetes_gdm">Gestazionale</string>
+  <string name="helloactivity_spinner_diabetes_lada">LADA</string>
+  <string name="helloactivity_spinner_preferred_glucose_unit">Unità di misura Glucosio</string>
+  <string name="preferences_spinner_preferred_a1c_unit_1">percentuale</string>
+  <string name="preferences_spinner_preferred_weight_unit">Unità di misura peso</string>
+  <string name="preferences_spinner_preferred_weight_unit_1">kilogrammi</string>
+  <string name="preferences_spinner_preferred_weight_unit_2">libbre</string>
+  <string name="helloactivity_button_next">SUCCESSIVO</string>
+  <string name="helloactivity_button_start">INIZIAMO</string>
+  <string name="dialog_add_title">Aggiungi Glicemia</string>
+  <string name="dialog_add_concentration">Concentrazione</string>
+  <string name="dialog_add_date">Data</string>
+  <string name="dialog_add_measured">Misurato</string>
+  <string name="dialog_add_type_1">Prima di colazione</string>
+  <string name="dialog_add_type_2">Dopo colazione</string>
+  <string name="dialog_add_type_3">Prima di pranzo</string>
+  <string name="dialog_add_type_4">Dopo pranzo</string>
+  <string name="dialog_add_type_5">Prima della cena</string>
+  <string name="dialog_add_type_6">Dopo cena</string>
+  <string name="dialog_add_type_8">Prima di dormire</string>
+  <string name="dialog_add_type_9">Notte</string>
+  <string name="dialog_add_type_10">Glicemia a digiuno</string>
+  <string name="dialog_add_type_11">Recheck</string>
+  <string name="dialog_add_type_12">Altro</string>
+  <string name="assistant_action_reading">AGGIUNGI UNA MISURAZIONE</string>
+  <string name="assistant_action_try">PROVALO ORA</string>
+  <string name="assistant_categories_title">Crea categorie</string>
+  <string name="assistant_check_title">Controllare spesso qui</string>
+  <string name="assistant_reading_title">Aggiungi una lettura</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
