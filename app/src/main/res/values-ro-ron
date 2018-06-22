@@ -20,39 +20,8 @@
   ~
   -->
 <resources>
-  <string-array name="tips_all">
-    <item>Jezte více čerstvých, nezpracovaných potravin, pomůžete tak snížit příjem sacharidů a cukrů.</item>
-    <item>Přečtěte nutriční hodnoty na balených potravinách a nápojích pro kontrolu příjmu sacharidů a cukrů.</item>
-    <item>Při stravování mimo domov žádejte o ryby nebo maso pečené bez přidaného másla nebo oleje.</item>
-    <item>Při stravování mimo domov se zeptejte, zda podávají jídla s nízkým obsahem sodíku.</item>
-    <item>Při stravování mimo domov jezte stejně velké porce, jako byste jedli doma, zbytky si vezměte s sebou.</item>
-    <item>Při stravování mimo domov požádejte o nízkokalorická jídla, například salátové dresinky, i v případě, že nejsou v nabídce.</item>
-    <item>Při stravování mimo domov žádejte o náhrady. Místo hranolků požádejte dvojitou porci zeleniny, jako je salát, zelené fazolky nebo brokolice.</item>
-    <item>Při stravování mimo domov si objednávejte jídla, která nejsou obalovaná nebo smažená.</item>
-    <item>Při stravování mimo domov požádejte o omáčky a salátové dresinky \"bokem.\"</item>
-    <item>\"Bez cukru\" opravdu neznamená bez cukru. To znamená 0,5 gramů (g) cukru na jednu porci, dejte si tedy pozor, abyste nekonzumovali tolik jídel \"bez cukru\".</item>
-    <item>Zdravá tělesná váha pomáhá držet krevní cukr pod kontrolou. Váš lékař, dietolog nebo fitness trenér vám může pomoci vytvořit plán, který vám s udržením nebo snížením tělesné váhy pomůže.</item>
-    <item>Kontrola a sledování hladiny krevního tlaku dvakrát denně v aplikaci jako je Glucosio vám pomůže znát výsledky z volby stravování a životního stylu.</item>
-    <item>Fă testul de sânge A1c ca să afli media glucozei în sânge pentru ultimele 2-3 luni. Doctorul ar trebui să îți spună cât de des va trebui să faci testul acesta.</item>
-    <item>Nivelul carbohidraților consumați poate fi la fel de important ca verificarea nivelului zaharurilor în sânge deoarece carbohidrații influențează nivelul glucozei în sânge. Consultă doctorul sau nutriționistul despre consumul de carbohidrați.</item>
-    <item>Kontroly krevního tlaku, hladiny cholesterolu a hladiny triglyceridů, jsou důležité, neboť diabetici jsou náchylní k srdečním onemocněním.</item>
-    <item>Existuje několik typů diet, které můžete zvolit proto, abyste jedli zdravě a zároveň zlepšili výsledky cukrovky. Vyhledejte dietologa pro radu o nejvhodnější dietě pro vás a váš rozpočet.</item>
-    <item>Pravidelné cvičení je důležité zejména pro lidi trpící cukrovkou a může pomoci udržet si zdravou váhu. Poraďte se se svým lékařem o tom, která cvičení pro vás mohou být vhodná.</item>
-    <item>Insomniile pot crește pofta de mâncare, în special mâncare nesănătoasă și îți pot afecta negativ sănătatea. Ai grijă să dormi suficient și să consulți un specialist dacă ai probleme cu somnul.</item>
-    <item>Stres může mít na cukrovku negativní dopad, zvládání stresu můžete konzultovat s Vaším lékařem nebo jiným specialistou.</item>
-    <item>Vizita medicală o data pe an și comunicarea cu doctorul pe parcursul anului sunt importante pentru diabetici pentru a preveni orice apariție bruscă a problemelor medicale asociate diabetului.</item>
-    <item>Urmează tratamentul așa cum a fost prescris de doctor, chiar și cele mai mici abateri pot afecta nivelul glucozei în sânge și pot cauza alte efecte secundare. Dacă ai probleme cu memoria cere-i doctorului sfaturi despre cum sa îți organizezi tratamentul și ce poți face ca să îți amintești mai ușor.</item>
-  </string-array>
-  <string name="preferences_backup_google_drive">Google Drive</string>
-  <string name="reading_ok">Ok</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
-  <string name="dialog_add_exercisetype_3">Jogging</string>
-  <string name="dialog_add_exercisetype_9">Golf</string>
-  <string name="dialog_add_exercisetype_10">Softball</string>
-  <string name="dialog_add_exercisetype_11">Badminton</string>
-  <string name="dialog_add_exercisetype_16">Frisbee</string>
-  <string name="dialog_add_exercisetype_23">Lupte</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Intro Strings -->
   <!-- Future Strings Baked In Early For l10n -->
