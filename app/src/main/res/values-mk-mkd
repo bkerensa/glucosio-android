@@ -20,10 +20,6 @@
   ~
   -->
 <resources>
-  <string name="tab_tips">Совети</string>
-  <string name="helloactivity_spinner_diabetes_type_1">Тип 1</string>
-  <string name="helloactivity_spinner_diabetes_type_2">Тип 2</string>
-  <string name="helloactivity_spinner_diabetes_lada">LADA</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
