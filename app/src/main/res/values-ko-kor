@@ -20,17 +20,8 @@
   ~
   -->
 <resources>
-  <string name="tab_tips">Tips</string>
-  <string name="fragment_overview_selector_day">일</string>
-  <string name="preferences_version">버전</string>
-  <string name="preferences_backup_google_drive">구글 드라이브</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
-  <string name="dialog_add_exercisetype_9">골프</string>
-  <string name="dialog_add_exercisetype_11">배드민턴</string>
-  <string name="dialog_add_exercisetype_15">크리켓</string>
-  <string name="dialog_add_exercisetype_16">프리스비</string>
-  <string name="dialog_add_exercisetype_19">테니스</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Intro Strings -->
   <!-- Future Strings Baked In Early For l10n -->
@@ -38,7 +29,5 @@
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Badges -->
   <!-- Food Entry Labels -->
-  <string name="dialog_addfood_protein">단백질:</string>
   <!-- About Glucosio Strings -->
-  <string name="share_subject">Glucosio 데이터</string>
 </resources>
