@@ -23,7 +23,6 @@
 	These strings are the source of the Glucosio Google Play Store description.
 -->
 <resources>
-  <string name="PlaystoreDescription_para_0800">Ju lutemi të raportoni bug, çështje ose kërkesa për mjete të tjera në:</string>
   <string name="PlaystoreDescription_para_0900">https://github.com/glucosio/android</string>
   <string name="PlaystoreDescription_para_1100">http://www.glucosio.org/</string>
 </resources>
