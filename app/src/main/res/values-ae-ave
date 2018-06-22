@@ -20,8 +20,6 @@
   ~
   -->
 <resources>
-  <string name="tab_tips">نکات</string>
-  <string name="preferences_version">نسخه</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
