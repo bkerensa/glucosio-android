@@ -20,9 +20,6 @@
   ~
   -->
 <resources>
-  <string name="helloactivity_spinner_diabetes_type_1">Sorta 1</string>
-  <string name="helloactivity_spinner_diabetes_type_2">Sorta 2</string>
-  <string name="assistant">Axhutor</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
