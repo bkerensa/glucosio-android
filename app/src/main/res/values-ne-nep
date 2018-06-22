@@ -22,4 +22,6 @@
 <!--
 	These strings are the source of the Glucosio Google Play Store description.
 -->
-<resources></resources>
+<resources>
+  <string name="PlaystoreDescription_para_0800">कृपया कुनै त्रुटीहरु, मुद्दाहरू, वा सुविधा अनुरोध यहाँ दर्ता गर्नुहोस:</string>
+</resources>
