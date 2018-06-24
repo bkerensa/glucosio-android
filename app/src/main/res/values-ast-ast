@@ -20,29 +20,6 @@
   ~
   -->
 <resources>
-  <string-array name="tips_all">
-    <item>خوردن غذا های تازه و فراوری نشده برای کمک به کاهش مصرف کربوهیدارت و قند و شکر.</item>
-    <item>Llei la etiqueta nutricional nes comíes envasaes y bébores pa controlar el consumu de zucre y carbohidratos.</item>
-    <item>Al comer fuera, entruga por pexe o carne asao ensin aceite o mantega estra.</item>
-    <item>Al comer fuera, entruga si tienen platos baxos en sodiu.</item>
-    <item>Al comer fuera, comi la mesma cantidá que comeríes en casa y lleva les sobres contigo.</item>
-    <item>Al comer fuera, entruga por elementos baxos en caloríes como alliños, magar que nun tean nel menú.</item>
-    <item>Al comer fuera, entruga por troqueos. En cuantes de pataques fritíes, solicita un pidíu doblu vexetal como ensalada, fréxoles o brócoli.</item>
-    <item>Al comer fuera, pidi comíes que nun sían rebozaes o tean fritíes.</item>
-    <item>Al comer fuera, entruga por salses, zusmios o alliños «al llau».</item>
-    <item>Llibre de zucre nun quier dicir que lo seya. Quier dicir, 0,5 gramos (g) per unidá, asina que ten curiáu de nun fartucate de munchos elementos «llibres de zucre».</item>
-    <item>Movese haza un pesu saludable ayuda a controlar los zucres nel sangre. El to mélicu, un dietista y el to entrenador personal puen facer qu\'entames nun plan que furrule contigo.</item>
-    <item>Comprobar los tos niveles sanguineos y siguilos nuna aplicación como Glucosio dos vegaes caldía ayudaránte a tar na cuenta de les escoyetes de comíes y estilos de vida.</item>
-    <item>Consigui pruebes de sangre A1c pa dir en cata del promediu de zucre nel sangre nos pasaos 2 a 3 meses. El to doctor debería dicite con qué frecuencia sedrá preciso facelu.</item>
-    <item>Siguir cuantos carbohidratos consumes pue ser cenciellamente tan importante como comprobar los sos niveles nel sangre darréu qu\'inflúin nos niveles de glucosa. Charra col to mélicu o dietista tocante al consumu de carbohidratos.</item>
-    <item>Controlar la presión nel sangre y los niveles de colesterol y triglicéridos ye importante darréu que los diabéticos son susceptibles a enfermedaes cardiaques.</item>
-    <item>Hai dellos enfoques que pues tomar pa comer más sano y ayudar a ameyorar la to diabetes. Gueta conseyu d\'un dietista sobro que dirá meyor pa tigo y el to presupuestu.</item>
-    <item>Dir na gueta d\'exerciciu regular ye especialmente importante p\'aquellos con diabetes y pue ayudate a caltener un pesu sanu. Charra col to doctor tocante a los exercicios que son afayadizos pa tigo.</item>
-    <item>Tar priváu de dormir pue facete que comas más, especialmente coses como comida puxarra y como resultáu afeutate de mou negativu na to salú. Asegúrate de dormir bien y consultar a un especialista del sueñu si tas teniendo dificultaes.</item>
-    <item>L\'estrés pue tener un impautu negativu na diabetes. Charra col to doctor o profesional de la salú tocante a acostinar col estrés.</item>
-    <item>Visita al to mélicu añalmente y tenéi una comunicación regular per tol añu porque ye importante pa que los diabéticos eviten cualesquier ataque repentín de problemes venceyaos al corazón.</item>
-    <item>Amelecínate como te prescribió\'l to mélicu. Lapsos pequeños de tiempu puen tener un impautu nos niveles de glucosa nel sangre y causar efeutos secundarios. Si tienes dificultaes pa facer mientes, entrúga-y al to mélicu tocante a la xestión de melecines y les opciones recordatories.</item>
-  </string-array>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
