@@ -20,8 +20,12 @@
   ~
   -->
 <resources>
+  <string name="preferences_backup_google_drive">Google Drive</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
+  <string name="dialog_add_exercisetype_9">Golf</string>
+  <string name="dialog_add_exercisetype_11">Badminton</string>
+  <string name="dialog_add_exercisetype_16">Frisbee</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Intro Strings -->
   <!-- Future Strings Baked In Early For l10n -->
@@ -30,4 +34,5 @@
   <!-- Badges -->
   <!-- Food Entry Labels -->
   <!-- About Glucosio Strings -->
+  <string name="dialog_add_hb1ac">HB1AC</string>
 </resources>
