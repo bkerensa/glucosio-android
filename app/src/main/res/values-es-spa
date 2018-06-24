@@ -20,28 +20,8 @@
   ~
   -->
 <resources>
-  <string name="app_name">Glucosio</string>
-  <string name="helloactivity_spinner_diabetes_type_1">Tipo 1</string>
-  <string name="helloactivity_spinner_diabetes_type_2">Tipo 2</string>
-  <string name="helloactivity_spinner_diabetes_lada">LADA</string>
-  <string name="helloactivity_spinner_preferred_glucose_unit_2">mmol/L</string>
-  <string name="dialog_add_concentration">Concentración</string>
-  <string name="dialog_add_date">Fecha</string>
-  <string name="preferences_version">Versión</string>
-  <string name="glucose_reading_type">Tipo</string>
-  <string name="assistant">Asistente</string>
-  <string name="preferences_backup_google_drive">Google Drive</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
-  <string name="dialog_add_exercisetype_9">Golf</string>
-  <string name="dialog_add_exercisetype_10">Sóftbol</string>
-  <string name="dialog_add_exercisetype_11">Badminton</string>
-  <string name="dialog_add_exercisetype_12">Fútbol</string>
-  <string name="dialog_add_exercisetype_13">Baloncesto</string>
-  <string name="dialog_add_exercisetype_14">Vóleibol</string>
-  <string name="dialog_add_exercisetype_15">Críquet</string>
-  <string name="dialog_add_exercisetype_16">Frisbi</string>
-  <string name="dialog_add_exercisetype_19">Tenis</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Intro Strings -->
   <!-- Future Strings Baked In Early For l10n -->
@@ -50,9 +30,4 @@
   <!-- Badges -->
   <!-- Food Entry Labels -->
   <!-- About Glucosio Strings -->
-  <string name="dialog_add_hb1ac">HB1AC</string>
-  <string name="menu_support">Asistencia técnica</string>
-  <string name="menu_support_email">Correo electrónico</string>
-  <string name="dialog_add_notes">Observaciones</string>
-  <string name="mmol_L">mmol/L</string>
 </resources>
