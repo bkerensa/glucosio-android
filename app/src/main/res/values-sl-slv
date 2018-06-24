@@ -20,15 +20,44 @@
   ~
   -->
 <resources>
+  <string name="tab_tips">Nasveti</string>
+  <string name="helloactivity_spinner_diabetes_type_1">Tip 1</string>
+  <string name="helloactivity_spinner_diabetes_type_2">Tip 2</string>
   <string name="helloactivity_spinner_diabetes_lada">LADA</string>
-  <string name="helloactivity_spinner_preferred_glucose_unit_2">mmol/l</string>
-  <string name="assistant_action_live_chat">Pogovor v živo</string>
+  <string name="fragment_overview_selector_week">Teden</string>
+  <string name="glucose_reading_type">Tip</string>
+  <string-array name="tips_all">
+    <item>Eet meer verse, onverwerkte voeding om inname van koolhydraten en suikers te verminderen.</item>
+    <item>Lees het voedingslabel op voorverpakt voedsel en drinkwaren om inname van suikers en koolhydraten te beheersen.</item>
+    <item>Ko jeste zunaj, prosite za ribo ali meso, ki je pečeno brez dodatnega masla ali olja.</item>
+    <item>Als u uitgaat, vraag dan of ze natriumarme gerechten serveren.</item>
+    <item>Als u uitgaat, eet dan evenveel als thuis en neem de restjes mee.</item>
+    <item>Ko jeste zunaj, prosite za nizkokalorične dodatke, kot je solatni preliv, tudi, če ni napisan na meniju.</item>
+    <item>Ko jeste zunaj, vprašajte, če je možna menjava. Namesto pečenega krompirčka vzemite dvojno zelenjavno prilogo, solato, stročji fižol ali brokoli.</item>
+    <item>Ko jeste zunaj, naročite hrano, ki ni panirana ali ocvrta.</item>
+    <item>Ko jeste zunaj, vprašajte za omake in solatne prelive, ki jih nimajo v meniju.</item>
+    <item>Oznaka brez sladkorja ne pomeni, da je izdelek brez dodanega sladkorja. Pomeni 0,5 g sladkorja na porcijo, zato bodite previdni, da si ne privoščite preveč izdelkov brez sladkorja.</item>
+    <item>Strmenje k zdravi telesni teži vam bo pomagalo nadzirati krvni sladkor. Vaš zdravnik, dietni svetovalec in fitnes trener vam lahko pripravijo načrt, ki vam bo pomagal na vaši poti.</item>
+    <item>Tweemaal per dag controleren en opvolgen van uw suikerspiegel in een applicatie als Glucosio kan ervoor zorgen dat u betere voedings- en levensstijlkeuzes maakt.</item>
+    <item>Pridobite si A1c krvne teste in ugotovite vašo povprečno raven sladkorja v krvi za pretekle 2 do 3 mesece. Vaš zdravnik vam bo povedal, kako pogosto morate te teste opravljati.</item>
+    <item>Het opvolgen van hoeveel koolhydraten u verbruikt kan net zo belangrijk zijn als het controleren van uw suikerspiegel, omdat koolhydraten de suikerspiegel beïnvloeden. Praat met uw dokter of diëtist(e) over de inname van koolhydraten.</item>
+    <item>Nadzorovanje krvnega tlaka, holesterola in trigliceridov je pomembno, saj ste diabetiki bolj dovzetni za bolezni srca.</item>
+    <item>Obstaja več diet in pristopov, kako jesti bolj zdravo in kako zmanjšati vplive sladkorne bolezni. Poiščite nasvet strokovnjaka za diete, kaj bi bilo najboljše za vas in za vaš proračun.</item>
+    <item>Redna vadbe je za sladkorne bolnike izrednega pomena, saj vam pomaga vzdrževati pravilno telesno težo. S svojim osebnim zdravnikom se pogovorite, katere vaje so primerne za vas.</item>
+    <item>Pomanjkanje spanja lahko vodi v povečanje apetita in posledično v hranjenje s hitro pripravljeno hrano, kar lahko negativno vpliva na vaše zdravje. Zagotovite si dober spanec in se posvetujte s strokovnjakom, če imate težave.</item>
+    <item>Stress kan een negatieve invloed hebben op diabetes. Praat met uw dokter of andere gezondheidsspecialist over het omgaan met stress.</item>
+    <item>Redni letni obiski zdravnika in pogosta komunikacija skozi celo leto je za diabetike pomembna in preprečuje nenadne zdravstvene težave.</item>
+    <item>Neem uw medicijnen net als voorgeschreven door de dokter, zelfs kleine onderbrekingen kunnen invloed hebben op de suikerspiegel en andere bijwerkingen veroorzaken. Als u hiermee problemen heeft, vraag dan uw dokter om medicatiebeheer en herinneringsopties.</item>
+  </string-array>
+  <string name="preferences_privacy">Zasebnost</string>
   <string name="preferences_backup_google_drive">Google Drive</string>
-  <string name="reading_ok">V redu</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <string name="dialog_add_exercisetype_9">Golf</string>
   <string name="dialog_add_exercisetype_11">Badminton</string>
+  <string name="dialog_add_exercisetype_15">Kriket</string>
+  <string name="dialog_add_exercisetype_16">Frizbi</string>
+  <string name="dialog_add_exercisetype_19">Tenis</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Intro Strings -->
   <!-- Future Strings Baked In Early For l10n -->
@@ -37,8 +66,9 @@
   <!-- Badges -->
   <!-- Food Entry Labels -->
   <!-- About Glucosio Strings -->
+  <string name="about_credits">Zasluge</string>
   <string name="dialog_add_hb1ac">HBA1C</string>
   <string name="overview_hb1ac">HBA1C:</string>
-  <string name="menu_support_email">E-pošta</string>
-  <string name="mmol_L">mmol/l</string>
+  <string name="activity_converter_a1c">HBA1C</string>
+  <string name="mmol_mol_value">%1$s mmol/mol</string>
 </resources>
