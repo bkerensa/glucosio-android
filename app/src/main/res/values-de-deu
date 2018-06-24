@@ -20,33 +20,6 @@
   ~
   -->
 <resources>
-  <string-array name="tips_all">
-    <item>Їжте більше свіжих, необроблених продуктів, аби зменшити споживання вуглеводів і цукру.</item>
-    <item>Передивляйтесь склад на етикетці упакованих харчових продуктів та напоїв, щоб контролювати споживання цукру і вуглеводів.</item>
-    <item>Коли харчуєтесь поза домом, запитайте рибу або м\'ясо, печене без додаткових масла або олії.</item>
-    <item>Коли харчуєтесь поза домом, запитатйте, якщо вони мають страви з низьким вмістом натрію.</item>
-    <item>Wenn Sie essen gehen, Essen Sie die gleiche Portionsgröße wie Zuhause und lassen Sie sich den Rest einpacken.</item>
-    <item>Wenn Sie essen gehen, fragen Sie, z.B.: bei Salatdressings, nach kalorienarmen Zutaten, auch wenn diese nicht in der Menükarte stehen.</item>
-    <item>Wenn Sie essen gehen, fragen Sie nach alternativen Beilagen. Anstatt von Pommes Frittes könnten Sie eine doppelte Portion Gemüse, grüne Bohnen, Brokkoli oder einen Salat bestellen.</item>
-    <item>Wenn Sie essen gehen, bestellen Sie Gerichte die nicht parniert oder in Fett gebraten werden.</item>
-    <item>Wenn Sie essen gehen, fragen Sie ob die Küche die Soße oder das Salatdressing an der Seite oder in einem Schälchen, anstatt auf dem Essen, beistellen kann.</item>
-    <item>\"Zuckerfrei\" bedeutet nicht, dass das Produkt auch wirklich ohne Zucker ist. Mindestmengen von 0,5 Gramm pro 100g sind deklarationsfrei. Außerdem kann das Produkt Zuckerersatzstoffe enthalten.</item>
-    <item>Ein gesundes Körpergewicht hilft den Blutzucker zu stabilisieren. Ihr Arzt, ein Ernährungsberater oder Fitnesstrainer kann ihnen helfen.</item>
-    <item>Ihren Blutzucker mittels einer App wie Glucosio zwei Mal täglich zu überprüfen und zu verfolgen, wird ihnen dabei helfen, den Ergebnissen von Ernährung und des Lebensstils bewusst zu werden.</item>
-    <item>Verwenden sie A1c Tests um ihren durchschnittlichen Blutzucker der vergangenen 2 bis 3 Monate zu bestimmen. Ihr Arzt sollte ihnen mitteilen, wie oft sie diesen durchführen müssen.</item>
-    <item>Der Überblick über die aufgenommenen Kohlenhydrate kann genauso wichtig sein, wie die Kontrolle der Blutwerte, da die Kohlenhydrate den Blutzucker beeinflussen. Sprechen Sie mit Ihrem Arzt oder Ernährungsberater über den Kohlenhydratanteil Ihrer Ernährung.</item>
-    <item>Kontrolle von Blutdruck, Cholesterin und Triglyzeride ist wichtig, da Diabetiker anfälliger für Herzerkrankungen sind.</item>
-    <item>Es gibt mehrere Diät-Ansätze um gesünder zu essen und Ihnen zu helfen, Ihre Diabetes-Ergebnisse zu verbessern. Konsultieren Sie einen Ernährungsberater um rauszufinden, was am besten für Sie und Ihren Geldbeutel ist.</item>
-    <item>Eine regelmäßige sportliche Aktivität ist besonders für Diabetiker wichtig um ein gesundes Gewicht zu halten. Sprechen Sie mit Ihrem Arzt über für sie passende Übungen.</item>
-    <item>Schlafentzug kann die Ursache dafür sein, dass Sie mehr essen - speziell Junk Food, was einen negativen Einfluss auf Ihre Gesundheit hat. Sorgen Sie für einen ruhigen Schlaf und wenden Sie sich an einen Spezialisten, wenn Sie Schwierigkeiten haben.</item>
-    <item>Stress kann einen negativen Einfluss auf Diabetes haben. Befragen Sie Ihren Arzt oder andere Professionelle zu Umgang mit Stress.</item>
-    <item>Ein jährlicher Arztbesuch, sowie regelmäßige Kommunikation über das jahr hinweg ist wichtig für Diabetiker um plötzlich auftretenden - diabetesbedingten - gesundheitlichen Problemen vorzubeugen.</item>
-    <item>Nehmen Sie die Ihnen von Ihrem Arzt verschriebenen Medikamente. Selbst kleinste Abweichungen in der Einnahme, können Ihren Blutzuckerspiegel beeinflussen und andere Nebenwirkungen haben. Sollten Sie Probleme haben sich zu merken, wie Sie Ihre Medikamente zu nehmen haben, fragen Sie Ihren Arzt bezüglich Erinnerungshilfen.</item>
-  </string-array>
-  <string-array name="tips_all_age_plus_40">
-    <item>Ältere Diabetiker können einem höheren Gesundheitsrisiko durch Diabetes ausgesetzt sein. Sprechen Sie mit Ihrem Arzt darüber, inwiefern Ihr Alter eine Rolle bezüglich Ihrer Diabetes spielt und worauf zu achten ist.</item>
-    <item>Обмежуйте кількість солі що ви використовуєте для готування їжі і додаєти до страви, після того, як вона була приготована.</item>
-  </string-array>
   <string name="preferences_backup_google_drive">Google Drive</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
@@ -58,4 +31,6 @@
   <!-- Badges -->
   <!-- Food Entry Labels -->
   <!-- About Glucosio Strings -->
+  <string name="dialog_add_hb1ac">HBA1C</string>
+  <string name="overview_hb1ac">HBA1C:</string>
 </resources>
