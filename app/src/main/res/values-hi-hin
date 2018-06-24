@@ -20,6 +20,13 @@
   ~
   -->
 <resources>
+  <string name="tab_overview">अवलोकन</string>
+  <string name="helloactivity_spinner_diabetes_type_1">श्रेणी 1</string>
+  <string name="helloactivity_spinner_diabetes_type_2">श्रेणी 2</string>
+  <string name="preferences_terms">उपयोग की शर्तें</string>
+  <string name="assistant">सहायक</string>
+  <string name="helloactivity_preferred_range_min">न्यूनतम मूल्य</string>
+  <string name="helloactivity_preferred_range_max">अधिकतम मूल्य</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
