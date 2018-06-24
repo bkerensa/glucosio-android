@@ -20,8 +20,15 @@
   ~
   -->
 <resources>
+  <string name="helloactivity_spinner_diabetes_lada">LADA</string>
+  <string name="helloactivity_spinner_preferred_glucose_unit_2">mmol/l</string>
+  <string name="assistant_action_live_chat">Pogovor v živo</string>
+  <string name="preferences_backup_google_drive">Google Drive</string>
+  <string name="reading_ok">V redu</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
+  <string name="dialog_add_exercisetype_9">Golf</string>
+  <string name="dialog_add_exercisetype_11">Badminton</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Intro Strings -->
   <!-- Future Strings Baked In Early For l10n -->
@@ -30,4 +37,8 @@
   <!-- Badges -->
   <!-- Food Entry Labels -->
   <!-- About Glucosio Strings -->
+  <string name="dialog_add_hb1ac">HBA1C</string>
+  <string name="overview_hb1ac">HBA1C:</string>
+  <string name="menu_support_email">E-pošta</string>
+  <string name="mmol_L">mmol/l</string>
 </resources>
