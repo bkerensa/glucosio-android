@@ -20,10 +20,6 @@
   ~
   -->
 <resources>
-  <string name="tab_overview">Yhteenveto</string>
-  <string name="helloactivity_spinner_diabetes_type_1">Tyyppi 1</string>
-  <string name="helloactivity_spinner_diabetes_type_2">Tyyppi 2</string>
-  <string name="preferences_terms">Käyttöehdot</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
