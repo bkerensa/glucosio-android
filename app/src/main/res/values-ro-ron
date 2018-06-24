@@ -20,6 +20,7 @@
   ~
   -->
 <resources>
+  <string name="helloactivity_spinner_diabetes_lada">LADA</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
@@ -30,4 +31,5 @@
   <!-- Badges -->
   <!-- Food Entry Labels -->
   <!-- About Glucosio Strings -->
+  <string name="overview_hb1ac">HBA1C:</string>
 </resources>
