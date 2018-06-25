@@ -20,6 +20,9 @@
   ~
   -->
 <resources>
+  <string name="tab_tips">Tips</string>
+  <string name="helloactivity_spinner_diabetes_type_1">Type 1</string>
+  <string name="helloactivity_spinner_diabetes_type_2">Type 2</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
   <!-- Future Strings Baked In Early For l10n -->
