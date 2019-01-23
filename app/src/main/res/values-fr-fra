@@ -20,8 +20,16 @@
   ~
   -->
 <resources>
+  <string name="app_name">Glucosio</string>
+  <string name="helloactivity_spinner_diabetes_lada">LADA</string>
+  <string name="helloactivity_spinner_preferred_glucose_unit_2">mmol/L</string>
+  <string name="assistant_action_live_chat">CHAT EN DIRECT</string>
+  <string name="preferences_backup_google_drive">Google Drive</string>
+  <string name="reading_ok">Ok</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Exercise Types -->
+  <string name="dialog_add_exercisetype_9">Golf</string>
+  <string name="dialog_add_exercisetype_11">Badminton</string>
   <!-- Future Strings Baked In Early For l10n -->
   <!-- Intro Strings -->
   <!-- Future Strings Baked In Early For l10n -->
@@ -30,4 +38,11 @@
   <!-- Badges -->
   <!-- Food Entry Labels -->
   <!-- About Glucosio Strings -->
+  <string name="dialog_add_hb1ac">HbA1c</string>
+  <string name="overview_hb1ac">Hb1AC :</string>
+  <string name="menu_support_email">Email</string>
+  <string name="mmol_L">mmol/L</string>
+  <string name="mmol_mol_value">%1$s mmol/mol</string>
+  <string name="mmol_L_value">%1$s mmol/L</string>
+  <string name="mg_dL_value">%1$s mg/dL</string>
 </resources>
